@@ -1,0 +1,3 @@
+[submodule "FUNIT"]
+	path = FUNIT
+	url = git@github.com:NVlabs/FUNIT.git
