@@ -1,3 +1,6 @@
 [submodule "FUNIT"]
 	path = FUNIT
 	url = git@github.com:samuelchassot/FUNIT.git
+[submodule "imaginaire"]
+	path = imaginaire
+	url = git@github.com:samuelchassot/imaginaire.git
