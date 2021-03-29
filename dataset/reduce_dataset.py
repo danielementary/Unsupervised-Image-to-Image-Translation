@@ -36,7 +36,7 @@ for paths in paths_list:
 
     for k,v in current_directory_paths.items():
         if len(v) < 200:
-            if k[0] == 'c':
+            if k[0] == 'c': #ugly if could have been not used to detect cloudy or sunny since we iterate on each paths_list... but anyway...
                 paths_to_keep[0] += v
             else:
                 paths_to_keep[1] += v
