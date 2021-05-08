@@ -1,0 +1,14 @@
+ssd/sunny/ssd_sunny_parking meter/3_00533_o8.png
+ssd/sunny/ssd_sunny_parking meter/38_00019_o6.png
+ssd/sunny/ssd_sunny_parking meter/42_00017_o4.png
+ssd/sunny/ssd_sunny_parking meter/37_00536_o6.png
+ssd/sunny/ssd_sunny_parking meter/44_00176_o6.png
+ssd/sunny/ssd_sunny_parking meter/30_00301_o5.png
+ssd/sunny/ssd_sunny_parking meter/30_00301_o6.png
+ssd/sunny/ssd_sunny_parking meter/8_00344_o5.png
+ssd/sunny/ssd_sunny_parking meter/8_00813_o6.png
+ssd/sunny/ssd_sunny_parking meter/10_00212_o8.png
+ssd/sunny/ssd_sunny_parking meter/14_00189_o3.png
+ssd/sunny/ssd_sunny_parking meter/14_00559_o9.png
+ssd/sunny/ssd_sunny_parking meter/1_00022_o12.png
+ssd/sunny/ssd_sunny_parking meter/16_00194_o1.png

@@ -1,0 +1,5 @@
+ssd/rainy/ssd_rainy_boat/2_00331_o1.png
+ssd/rainy/ssd_rainy_boat/0_00078_o4.png
+ssd/rainy/ssd_rainy_boat/0_00081_o2.png
+ssd/rainy/ssd_rainy_boat/0_00080_o2.png
+ssd/rainy/ssd_rainy_boat/0_00079_o6.png

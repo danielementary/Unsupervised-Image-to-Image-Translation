@@ -1,0 +1,3 @@
+ssd/sunny/ssd_sunny_vase/3_00264_o6.png
+ssd/sunny/ssd_sunny_vase/43_00047_o3.png
+ssd/sunny/ssd_sunny_vase/26_00107_o4.png

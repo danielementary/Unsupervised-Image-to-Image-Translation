@@ -1,0 +1,4 @@
+ssd/sunny/ssd_sunny_bottle/9_00308_o5.png
+ssd/sunny/ssd_sunny_bottle/12_01229_o14.png
+ssd/sunny/ssd_sunny_bottle/15_00758_o3.png
+ssd/sunny/ssd_sunny_bottle/15_00759_o4.png

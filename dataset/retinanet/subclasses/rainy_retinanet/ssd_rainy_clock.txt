@@ -1,0 +1,5 @@
+ssd/rainy/ssd_rainy_clock/10_00852_o3.png
+ssd/rainy/ssd_rainy_clock/2_00817_o1.png
+ssd/rainy/ssd_rainy_clock/2_00576_o3.png
+ssd/rainy/ssd_rainy_clock/2_01043_o5.png
+ssd/rainy/ssd_rainy_clock/2_00432_o1.png
