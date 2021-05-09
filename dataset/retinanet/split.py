@@ -1,10 +1,10 @@
 
 import os
 
-file_to_treat = ["sunny_retinanet.txt", "rainy_retinanet.txt", "cloudy_retinanet.txt", "night_retinanet.txt"]
+files_to_process = ["sunny_retinanet.txt", "rainy_retinanet.txt", "cloudy_retinanet.txt", "night_retinanet.txt"]
 
 seen_classes = []
-for f_name in file_to_treat:
+for f_name in files_to_process:
 
     folder_prefix = "subclasses/" + f_name.split(".txt")[0] + "/"
     os.system("cd subclasses && mkdir " + f_name.split(".txt")[0])
