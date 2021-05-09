@@ -26,7 +26,7 @@ for f_name in files_to_process:
 
 # 2 - split them in two groups (in FUNIT, they have train: 119 & test: 30)
 
-fraction_train = 0.85
+fraction_train = 0.8
 
 seen_classes.append("cloudy")
 seen_classes.append("night")
