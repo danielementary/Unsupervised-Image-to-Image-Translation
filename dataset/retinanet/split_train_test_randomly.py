@@ -3,7 +3,7 @@ import random
 
 files_to_process = ["sunny_retinanet.txt", "rainy_retinanet.txt", "cloudy_retinanet.txt", "night_retinanet.txt"]
 
-new_files_to_process = ["train_test/sunny_list.txt", "train_test/cloudy_list.txt", "train_test/rainy_list.txt", "train_test/cloudy_list.txt"]
+new_files_to_process = ["train_test/to_keep_sunny.txt", "train_test/to_keep_cloudy.txt", "train_test/rainy_list.txt", "train_test/cloudy_list.txt"]
 # 1 - explore to have classes and copy in new files without the prefixes:
 seen_classes = []
 for f_name in files_to_process:
