@@ -1,42 +1,42 @@
-ssd_sunny_truck is testing
-ssd_sunny_car is training
-ssd_sunny_traffic light is testing
-ssd_sunny_person is training
+ssd_sunny_truck is training
+ssd_sunny_car is testing
+ssd_sunny_traffic light is training
+ssd_sunny_person is testing
 ssd_sunny_potted plant is training
-ssd_sunny_motorcycle is training
-ssd_sunny_stop sign is testing
+ssd_sunny_motorcycle is testing
+ssd_sunny_stop sign is training
 ssd_sunny_bench is training
 ssd_sunny_bus is training
-ssd_sunny_bicycle is testing
+ssd_sunny_bicycle is training
 ssd_sunny_train is training
 ssd_sunny_vase is training
 ssd_sunny_tv is training
 ssd_sunny_dog is training
 ssd_sunny_clock is training
-ssd_sunny_chair is training
-ssd_sunny_parking meter is testing
+ssd_sunny_chair is testing
+ssd_sunny_parking meter is training
 ssd_sunny_handbag is training
 ssd_sunny_toilet is training
 ssd_sunny_fire hydrant is training
 ssd_sunny_boat is training
-ssd_sunny_backpack is training
-ssd_sunny_suitcase is testing
+ssd_sunny_backpack is testing
+ssd_sunny_suitcase is training
 ssd_sunny_bird is training
 ssd_sunny_bottle is training
-ssd_rainy_backpack is testing
+ssd_rainy_backpack is training
 ssd_rainy_bench is training
 ssd_rainy_bicycle is training
 ssd_rainy_bird is training
-ssd_rainy_boat is training
-ssd_rainy_bottle is testing
+ssd_rainy_boat is testing
+ssd_rainy_bottle is training
 ssd_rainy_bus is training
-ssd_rainy_car is training
+ssd_rainy_car is testing
 ssd_rainy_chair is training
 ssd_rainy_clock is training
-ssd_rainy_fire hydrant is testing
+ssd_rainy_fire hydrant is training
 ssd_rainy_handbag is training
 ssd_rainy_motorcycle is training
-ssd_rainy_parking meter is testing
+ssd_rainy_parking meter is training
 ssd_rainy_person is training
 ssd_rainy_potted plant is training
 ssd_rainy_stop sign is training
@@ -47,7 +47,7 @@ ssd_rainy_train is training
 ssd_rainy_truck is training
 ssd_rainy_vase is training
 ssd_cloudy_car is training
-ssd_cloudy_truck is training
+ssd_cloudy_truck is testing
 ssd_cloudy_train is training
 ssd_cloudy_bench is training
 ssd_cloudy_bus is training
@@ -55,10 +55,10 @@ ssd_cloudy_traffic light is training
 ssd_cloudy_person is training
 ssd_cloudy_motorcycle is training
 ssd_cloudy_stop sign is training
-ssd_cloudy_potted plant is testing
+ssd_cloudy_potted plant is training
 ssd_cloudy_fire hydrant is training
 ssd_cloudy_suitcase is training
-ssd_cloudy_bicycle is training
+ssd_cloudy_bicycle is testing
 ssd_cloudy_backpack is training
 ssd_cloudy_handbag is training
 ssd_cloudy_clock is training
@@ -67,32 +67,32 @@ ssd_cloudy_chair is training
 ssd_cloudy_toilet is training
 ssd_cloudy_boat is training
 ssd_cloudy_dog is training
-ssd_cloudy_bottle is training
-ssd_cloudy_tv is testing
+ssd_cloudy_bottle is testing
+ssd_cloudy_tv is training
 ssd_cloudy_bird is training
 ssd_cloudy_cell phone is training
-ssd_night_car is testing
-ssd_night_bus is testing
+ssd_night_car is training
+ssd_night_bus is training
 ssd_night_truck is training
 ssd_night_person is training
 ssd_night_motorcycle is training
-ssd_night_tv is testing
-ssd_night_traffic light is training
+ssd_night_tv is training
+ssd_night_traffic light is testing
 ssd_night_train is training
 ssd_night_bicycle is training
 ssd_night_fire hydrant is training
 ssd_night_bench is training
 ssd_night_clock is training
 ssd_night_stop sign is training
-ssd_night_bottle is training
+ssd_night_bottle is testing
 ssd_night_parking meter is training
 ssd_night_potted plant is training
 ssd_night_vase is training
 ssd_night_handbag is training
 ssd_night_dog is training
 ssd_night_chair is training
-ssd_night_boat is training
-ssd_night_laptop is testing
+ssd_night_boat is testing
+ssd_night_laptop is training
 ssd_night_cell phone is training
 ssd_night_backpack is training
 cloudy is training
@@ -101,5 +101,5 @@ sunny is training
 rainy is training
 
 
-training: 85
-testing: 16
+training: 88
+testing: 13
