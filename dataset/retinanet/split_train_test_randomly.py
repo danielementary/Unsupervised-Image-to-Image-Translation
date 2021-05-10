@@ -1,13 +1,15 @@
 import os
 import random
 
+folder_prefix = "train_test/" 
 files_to_process = ["sunny_retinanet.txt", "rainy_retinanet.txt", "cloudy_retinanet.txt", "night_retinanet.txt"]
 
-new_files_to_process = ["train_test/to_keep_sunny.txt", "train_test/to_keep_cloudy.txt", "train_test/rainy_list.txt", "train_test/cloudy_list.txt"]
+new_files_to_process = ["train_test/to_keep_sunny.txt", "train_test/to_keep_cloudy.txt", "train_test/rainy_list.txt", "train_test/night_list.txt"]
+
+f_log = open(folder_prefix + "split_info.txt", 'w', encoding='utf-8')
 # 1 - explore to have classes and copy in new files without the prefixes:
 seen_classes = []
 for f_name in files_to_process:
-    folder_prefix = "train_test/" 
 
     file = open(f_name, 'r')
     new_file_name = folder_prefix + f_name.split(".txt")[0] + "_wt_prefix.txt"
@@ -38,15 +40,16 @@ testing_classes = []
 
 for clas in seen_classes:
     if random.random() < fraction_train:
-        print(clas + " is training")
+        f_log.write(clas + " is training\n")
         training_classes.append(clas)
     else:
-        print(clas + " is testing")
+        f_log.write(clas + " is testing\n")
         testing_classes.append(clas)
 
+f_log.write("\n\n")
 
-print("training: " + str(len(training_classes)))
-print("testing: " + str(len(testing_classes)))
+f_log.write("training: " + str(len(training_classes)) + "\n")
+f_log.write("testing: " + str(len(testing_classes)) + "\n")
 
 f_train = open(folder_prefix + "training_with_retinanet.txt", 'w', encoding='utf-8')
 f_test = open(folder_prefix + "testing_with_retinanet.txt", 'w', encoding='utf-8')
@@ -71,3 +74,4 @@ for f_name in new_files_to_process:
 
 f_train.close()
 f_test.close()
+f_log.close()
