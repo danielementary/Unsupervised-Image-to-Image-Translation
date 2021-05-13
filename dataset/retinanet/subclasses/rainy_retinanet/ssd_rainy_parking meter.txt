@@ -1,0 +1,4 @@
+ssd/rainy/ssd_rainy_parking meter/2_00436_o1.png
+ssd/rainy/ssd_rainy_parking meter/2_00131_o2.png
+ssd/rainy/ssd_rainy_parking meter/0_00483_o6.png
+ssd/rainy/ssd_rainy_parking meter/0_00628_o5.png

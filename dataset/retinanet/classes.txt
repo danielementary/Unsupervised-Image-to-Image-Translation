@@ -1,0 +1,97 @@
+ssd_sunny_truck
+ssd_sunny_car
+ssd_sunny_traffic light
+ssd_sunny_person
+ssd_sunny_potted plant
+ssd_sunny_motorcycle
+ssd_sunny_stop sign
+ssd_sunny_bench
+ssd_sunny_bus
+ssd_sunny_bicycle
+ssd_sunny_train
+ssd_sunny_vase
+ssd_sunny_tv
+ssd_sunny_dog
+ssd_sunny_clock
+ssd_sunny_chair
+ssd_sunny_parking meter
+ssd_sunny_handbag
+ssd_sunny_toilet
+ssd_sunny_fire hydrant
+ssd_sunny_boat
+ssd_sunny_backpack
+ssd_sunny_suitcase
+ssd_sunny_bird
+ssd_sunny_bottle
+ssd_rainy_backpack
+ssd_rainy_bench
+ssd_rainy_bicycle
+ssd_rainy_bird
+ssd_rainy_boat
+ssd_rainy_bottle
+ssd_rainy_bus
+ssd_rainy_car
+ssd_rainy_chair
+ssd_rainy_clock
+ssd_rainy_fire hydrant
+ssd_rainy_handbag
+ssd_rainy_motorcycle
+ssd_rainy_parking meter
+ssd_rainy_person
+ssd_rainy_potted plant
+ssd_rainy_stop sign
+ssd_rainy_suitcase
+ssd_rainy_toilet
+ssd_rainy_traffic light
+ssd_rainy_train
+ssd_rainy_truck
+ssd_rainy_vase
+ssd_cloudy_car
+ssd_cloudy_truck
+ssd_cloudy_train
+ssd_cloudy_bench
+ssd_cloudy_bus
+ssd_cloudy_traffic light
+ssd_cloudy_person
+ssd_cloudy_motorcycle
+ssd_cloudy_stop sign
+ssd_cloudy_potted plant
+ssd_cloudy_fire hydrant
+ssd_cloudy_suitcase
+ssd_cloudy_bicycle
+ssd_cloudy_backpack
+ssd_cloudy_handbag
+ssd_cloudy_clock
+ssd_cloudy_parking meter
+ssd_cloudy_chair
+ssd_cloudy_toilet
+ssd_cloudy_boat
+ssd_cloudy_dog
+ssd_cloudy_bottle
+ssd_cloudy_tv
+ssd_cloudy_bird
+ssd_cloudy_cell phone
+ssd_night_car
+ssd_night_bus
+ssd_night_truck
+ssd_night_person
+ssd_night_motorcycle
+ssd_night_tv
+ssd_night_traffic light
+ssd_night_train
+ssd_night_bicycle
+ssd_night_fire hydrant
+ssd_night_bench
+ssd_night_clock
+ssd_night_stop sign
+ssd_night_bottle
+ssd_night_parking meter
+ssd_night_potted plant
+ssd_night_vase
+ssd_night_handbag
+ssd_night_dog
+ssd_night_chair
+ssd_night_boat
+ssd_night_laptop
+ssd_night_cell phone
+ssd_night_backpack

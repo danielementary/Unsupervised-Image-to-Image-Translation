@@ -1,0 +1,6 @@
+ssd/rainy/ssd_rainy_backpack/2_00709_o9.png
+ssd/rainy/ssd_rainy_backpack/2_00839_o6.png
+ssd/rainy/ssd_rainy_backpack/0_00027_o7.png
+ssd/rainy/ssd_rainy_backpack/0_00802_o7.png
+ssd/rainy/ssd_rainy_backpack/0_00802_o10.png
+ssd/rainy/ssd_rainy_backpack/0_00028_o8.png

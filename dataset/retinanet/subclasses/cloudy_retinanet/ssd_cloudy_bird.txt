@@ -1,0 +1,3 @@
+ssd/cloudy/ssd_cloudy_bird/23_02037_o7.png
+ssd/cloudy/ssd_cloudy_bird/27_00049_o14.png
+ssd/cloudy/ssd_cloudy_bird/25_00916_o7.png

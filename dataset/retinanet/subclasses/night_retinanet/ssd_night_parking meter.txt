@@ -1,0 +1,2 @@
+ssd/night/ssd_night_parking meter/1_01272_o9.png
+ssd/night/ssd_night_parking meter/0_00800_o3.png

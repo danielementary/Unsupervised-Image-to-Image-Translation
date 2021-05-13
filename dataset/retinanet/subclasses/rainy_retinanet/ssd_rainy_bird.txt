@@ -1,0 +1,4 @@
+ssd/rainy/ssd_rainy_bird/10_01179_o3.png
+ssd/rainy/ssd_rainy_bird/10_01186_o2.png
+ssd/rainy/ssd_rainy_bird/2_00409_o2.png
+ssd/rainy/ssd_rainy_bird/2_00053_o1.png
