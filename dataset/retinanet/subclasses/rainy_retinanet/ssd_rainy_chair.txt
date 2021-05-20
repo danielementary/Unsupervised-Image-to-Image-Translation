@@ -1,0 +1,4 @@
+ssd/rainy/ssd_rainy_chair/2_00830_o6.png
+ssd/rainy/ssd_rainy_chair/0_00549_o6.png
+ssd/rainy/ssd_rainy_chair/0_00172_o4.png
+ssd/rainy/ssd_rainy_chair/0_00170_o5.png

@@ -1,0 +1,2 @@
+ssd/night/ssd_night_boat/11_01140_o3.png
+ssd/night/ssd_night_boat/10_00268_o2.png

@@ -1,0 +1,6 @@
+ssd/rainy/ssd_rainy_fire hydrant/2_00778_o1.png
+ssd/rainy/ssd_rainy_fire hydrant/2_01214_o3.png
+ssd/rainy/ssd_rainy_fire hydrant/2_00932_o3.png
+ssd/rainy/ssd_rainy_fire hydrant/2_00696_o3.png
+ssd/rainy/ssd_rainy_fire hydrant/2_01025_o2.png
+ssd/rainy/ssd_rainy_fire hydrant/0_00475_o6.png

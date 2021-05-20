@@ -1,0 +1,8 @@
+ssd/sunny/ssd_sunny_bird/8_01066_o7.png
+ssd/sunny/ssd_sunny_bird/8_00736_o3.png
+ssd/sunny/ssd_sunny_bird/8_00375_o5.png
+ssd/sunny/ssd_sunny_bird/9_00500_o2.png
+ssd/sunny/ssd_sunny_bird/13_01162_o3.png
+ssd/sunny/ssd_sunny_bird/13_01162_o4.png
+ssd/sunny/ssd_sunny_bird/15_00621_o1.png
+ssd/sunny/ssd_sunny_bird/15_00394_o5.png

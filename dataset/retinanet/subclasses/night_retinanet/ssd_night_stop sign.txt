@@ -1,0 +1,6 @@
+ssd/night/ssd_night_stop sign/1_00981_o2.png
+ssd/night/ssd_night_stop sign/7_00548_o1.png
+ssd/night/ssd_night_stop sign/7_00151_o2.png
+ssd/night/ssd_night_stop sign/0_00078_o2.png
+ssd/night/ssd_night_stop sign/8_01337_o12.png
+ssd/night/ssd_night_stop sign/8_01206_o6.png

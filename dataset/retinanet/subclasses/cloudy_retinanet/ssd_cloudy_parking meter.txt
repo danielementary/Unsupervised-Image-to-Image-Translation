@@ -1,0 +1,16 @@
+ssd/cloudy/ssd_cloudy_parking meter/3_00600_o10.png
+ssd/cloudy/ssd_cloudy_parking meter/1_00370_o1.png
+ssd/cloudy/ssd_cloudy_parking meter/33_01395_o1.png
+ssd/cloudy/ssd_cloudy_parking meter/22_00442_o16.png
+ssd/cloudy/ssd_cloudy_parking meter/23_01503_o2.png
+ssd/cloudy/ssd_cloudy_parking meter/25_01005_o4.png
+ssd/cloudy/ssd_cloudy_parking meter/9_00743_o3.png
+ssd/cloudy/ssd_cloudy_parking meter/13_01981_o4.png
+ssd/cloudy/ssd_cloudy_parking meter/11_00063_o4.png
+ssd/cloudy/ssd_cloudy_parking meter/11_00046_o9.png
+ssd/cloudy/ssd_cloudy_parking meter/2_00878_o7.png
+ssd/cloudy/ssd_cloudy_parking meter/2_00878_o8.png
+ssd/cloudy/ssd_cloudy_parking meter/8_00935_o11.png
+ssd/cloudy/ssd_cloudy_parking meter/16_00142_o5.png
+ssd/cloudy/ssd_cloudy_parking meter/16_00910_o1.png
+ssd/cloudy/ssd_cloudy_parking meter/16_00910_o2.png

@@ -1,0 +1,14 @@
+ssd/night/ssd_night_fire hydrant/1_00435_o1.png
+ssd/night/ssd_night_fire hydrant/1_00199_o2.png
+ssd/night/ssd_night_fire hydrant/1_00118_o5.png
+ssd/night/ssd_night_fire hydrant/0_00747_o5.png
+ssd/night/ssd_night_fire hydrant/0_00098_o5.png
+ssd/night/ssd_night_fire hydrant/8_01388_o7.png
+ssd/night/ssd_night_fire hydrant/8_01496_o7.png
+ssd/night/ssd_night_fire hydrant/8_01499_o6.png
+ssd/night/ssd_night_fire hydrant/8_01500_o2.png
+ssd/night/ssd_night_fire hydrant/8_01502_o5.png
+ssd/night/ssd_night_fire hydrant/8_01579_o8.png
+ssd/night/ssd_night_fire hydrant/8_01503_o1.png
+ssd/night/ssd_night_fire hydrant/8_01175_o5.png
+ssd/night/ssd_night_fire hydrant/8_01504_o1.png
