@@ -2,7 +2,7 @@
 path_to_config = "configs/funit_roads.yaml"
 
 # path to the trained model from the root of FUNIT folder
-path_to_model = "/ivrldata1/students/2021-spring-cs413-team3/FUNIT_second_run/outputs/funit_roads/checkpoints/gen_00305000.pt"
+path_to_model = "/ivrldata1/students/2021-spring-cs413-team3/FUNIT_second_run/outputs/funit_roads/checkpoints/gen_00355000.pt"
 model_iteration = 10 #this should be the third model we are testing
 
 # all the images from which you want to translate in the trained/test_images folder at the root of FUNIT folder
