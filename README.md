@@ -14,5 +14,6 @@ Please find the deliverables too big to be uploaded here on the cluster `icclust
   - contains the dataset for our project:
     - `cloudy`, `sunny`, `night` and `rainy` contain what we kept from the dataset of INIT.
     - `ssd` contains all the classes (and images) created using RetinaNet
+    - `miscelaneous_and_scripts` contains some scripts and intermediate `txt` files used during splitting.
 - `/ivrldata1/students/2021-spring-cs413-team3/HANDIN/models`:
   - contains all the models trained that are presented in the `Results` part of our report as well as the baseline (FUNIT pretrained model that we fine-tuned)
